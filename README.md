@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating the issue of unordered hash keys and its solution.  The `bug.pl` file shows how iterating over hash keys produces unpredictable results, while `bugSolution.pl` demonstrates a solution using a sorted data structure.
